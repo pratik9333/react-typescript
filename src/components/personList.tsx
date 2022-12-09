@@ -1,3 +1,5 @@
+import React from "react";
+
 type PersonListProps = {
   names: {
     firstname: string;

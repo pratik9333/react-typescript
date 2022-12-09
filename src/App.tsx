@@ -1,3 +1,5 @@
+import React from "react";
+
 import { Greet } from "./components/Greet";
 import Person from "./components/Person";
 import PersonList from "./components/personList";

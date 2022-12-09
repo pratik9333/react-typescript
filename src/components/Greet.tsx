@@ -1,3 +1,5 @@
+import React from "react";
+
 type GreetProps = {
   name: string;
   messageCount?: number;

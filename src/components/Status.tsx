@@ -1,3 +1,5 @@
+import React from "react";
+
 type statusProps = {
   status: "Loading" | "Success" | "Error";
 };
